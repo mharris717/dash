@@ -29,6 +29,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "bin/dash",
     "dash.gemspec",
+    "dash_shell.gemspec",
     "lib/dash.rb",
     "lib/dash/builtin.rb",
     "lib/dash/command_line.rb",
