@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "dash"
+  gem.name = "dash_shell"
   gem.homepage = "http://github.com/mharris717/dash"
   gem.license = "MIT"
   gem.summary = %Q{dash}
