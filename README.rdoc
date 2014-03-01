@@ -1,6 +1,6 @@
 = dash
 
-Description goes here.
+Docker Shell
 
 == Contributing to dash
  
