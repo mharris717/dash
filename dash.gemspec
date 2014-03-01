@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "bin/dash",
+    "dash.gemspec",
     "lib/dash.rb",
     "lib/dash/builtin.rb",
     "lib/dash/command_line.rb",
