@@ -25,4 +25,10 @@ describe "Session" do
     session.dispatch "cd .."
     session.current_dir.should == "/foo"
   end
+
+  it 'cd current' do
+    session.dispatch "cd /foo/bar"
+    session.dispatch "cd ."
+    session.current_dir.should == "/foo/bar"
+  end
 end
